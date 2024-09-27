@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "multilingualItemSearch": true,
+  "fallbacks": [
+    "en_au",
+    "zh_cn"
+  ],
+  "previousFallbacks": [
+    "zh_cn"
+  ],
+  "language": "en_us",
+  "previousLanguage": "en_au"
+}
