@@ -49,6 +49,7 @@ Join the community of players who have transformed their gameplay. Download **Re
 - [**Better Mount HUD**](https://modrinth.com/mod/better-mount-hud) - Improves the ingame HUD while riding a mount
 - [**Better Ping Display [Fabric]**](https://modrinth.com/mod/better-ping-display-fabric) - Adds a configurable numerical ping display to the player list
 - [**Better Statistics Screen**](https://modrinth.com/mod/better-stats) - A Minecraft mod that improves the statistics screen and makes it more useful.
+- [**Blur+**](https://modrinth.com/mod/blur-plus) - Spices up the boring vanilla blur effect – featuring animations, colors and lots of customizability!
 - [**BoxLib**](https://modrinth.com/mod/boxlib) - A client-side library mod with tons of features to do all the heavy lifting for all client-side mods.
 - [**Capes**](https://modrinth.com/mod/capes) - Lets you use capes from OptiFine, LabyMod and other cape mods
 - [**Chat Animation [Smooth Chat]**](https://modrinth.com/mod/chatanimation) - Makes chat messages appear with a smooth animation.
@@ -56,6 +57,7 @@ Join the community of players who have transformed their gameplay. Download **Re
 - [**Concurrent Chunk Management Engine (Fabric)**](https://modrinth.com/mod/c2me-fabric) - A Fabric mod designed to improve the chunk performance of Minecraft.
 - [**Debug Keybind**](https://modrinth.com/mod/debug-keybind) - A basic mod that adds keybinds for the F3 menu.
 - [**Debugify**](https://modrinth.com/mod/debugify) - Fixes Minecraft bugs found on the bug tracker
+- [**Early Loading Screen**](https://modrinth.com/mod/early-loading-screen) - A Fabric mod that shows an early loading screen and display information while the game is loading.
 - [**Enhanced Block Entities**](https://modrinth.com/mod/ebe) - Reduce block entity FPS lag with almost no compromises, and improve their visuals
 - [**Entity Culling**](https://modrinth.com/mod/entityculling) - Using async path-tracing to hide Block-/Entities that are not visible
 - [**FPS - Display**](https://modrinth.com/mod/fpsdisplay) - A simple Fabric mod that displays the current FPS on screen.
@@ -72,8 +74,11 @@ Join the community of players who have transformed their gameplay. Download **Re
 - [**Mod Menu**](https://modrinth.com/mod/modmenu) - Adds a mod menu to view the list of mods you have installed.
 - [**Model Gap Fix**](https://modrinth.com/mod/modelfix) - Fixes gaps in Block Models and Item Models
 - [**ModernFix**](https://modrinth.com/mod/modernfix) - All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods!
+- [**More Chat History**](https://modrinth.com/mod/morechathistory) - Increases the maximum length of chat history.
+- [**More Culling**](https://modrinth.com/mod/moreculling) - A mod that changes how multiple types of culling are handled in order to improve performance
 - [**Mouse Tweaks**](https://modrinth.com/mod/mouse-tweaks) - Enhances inventory management by adding various functions to the mouse buttons. 
 - [**No Chat Reports**](https://modrinth.com/mod/no-chat-reports) - Makes chat unreportable (where possible)
+- [**Not Enough Animations**](https://modrinth.com/mod/not-enough-animations) - Bringing first-person animations to the third-person
 - [**Nvidium**](https://modrinth.com/mod/nvidium) - Fast nvidia only rendering engine for sodium
 - [**Packet Fixer**](https://modrinth.com/mod/packet-fixer) - A simple mod to solve various problems with packets.
 - [**RailOptimization**](https://modrinth.com/mod/railoptimization) - A simple mod that makes powered/activator rails turn on/off up to 4x faster. Fix vital crash.
@@ -82,11 +87,13 @@ Join the community of players who have transformed their gameplay. Download **Re
 - [**Smooth Scrolling**](https://modrinth.com/mod/smooth-scroll) - Smoothly scrolls chat, hotbar, creative inventory and much more!
 - [**Sodium**](https://modrinth.com/mod/sodium) - The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric!
 - [**Sodium Extra**](https://modrinth.com/mod/sodium-extra) - A Sodium addon that adds features that shouldn't be in Sodium.
+- [**Status Effect Bars**](https://modrinth.com/mod/status-effect-bars) - Adds customizable bars to the status effects overlay to show the remaining duration of effects.
 - [**TCDCommons API**](https://modrinth.com/mod/tcdcommons) - TheCSDev's personal library mod for the Minecraft modding enviroment.
 - [**Text Placeholder API**](https://modrinth.com/mod/placeholder-api) - Placeholder and Text manipulation library for your Minecraft mods.
+- [**ToolTipFix**](https://modrinth.com/mod/tooltipfix) - Fixes Tooltips from runnning off the screen.
 - [**Very Many Players (Fabric)**](https://modrinth.com/mod/vmp-fabric) - A Fabric mod designed to improve server performance at high playercounts.
 - [**YetAnotherConfigLib**](https://modrinth.com/mod/yacl) - A builder-based configuration library for Minecraft.
-- [**kennytvs-epic-force-close-loading-screen-mod-for-fabric**](https://modrinth.com/mod/forcecloseworldloadingscreen) - Instantly closes the loading terrain screen on world changing and drastically reduces the resource pack loading screen duration
+- [**kennytvs-epic-force-close-loading-screen-mod-for-fabric**](https://modrinth.com/mod/forcecloseworldloadingscreen) - Instantly closes the loading terrain screen on world changing and drastically reduces the resource pack loading screen duration'
 
 </details>
 
