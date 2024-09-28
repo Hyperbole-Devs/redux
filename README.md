@@ -49,6 +49,7 @@ Join the community of players who have transformed their gameplay. Download **Re
 - [**Better Mount HUD**](https://modrinth.com/mod/better-mount-hud) - Improves the ingame HUD while riding a mount
 - [**Better Ping Display [Fabric]**](https://modrinth.com/mod/better-ping-display-fabric) - Adds a configurable numerical ping display to the player list
 - [**Better Statistics Screen**](https://modrinth.com/mod/better-stats) - A Minecraft mod that improves the statistics screen and makes it more useful.
+- [**BetterF3**](https://modrinth.com/mod/betterf3) - BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD.
 - [**Blur+**](https://modrinth.com/mod/blur-plus) - Spices up the boring vanilla blur effect – featuring animations, colors and lots of customizability!
 - [**BoxLib**](https://modrinth.com/mod/boxlib) - A client-side library mod with tons of features to do all the heavy lifting for all client-side mods.
 - [**Capes**](https://modrinth.com/mod/capes) - Lets you use capes from OptiFine, LabyMod and other cape mods
@@ -78,10 +79,9 @@ Join the community of players who have transformed their gameplay. Download **Re
 - [**More Culling**](https://modrinth.com/mod/moreculling) - A mod that changes how multiple types of culling are handled in order to improve performance
 - [**Mouse Tweaks**](https://modrinth.com/mod/mouse-tweaks) - Enhances inventory management by adding various functions to the mouse buttons. 
 - [**No Chat Reports**](https://modrinth.com/mod/no-chat-reports) - Makes chat unreportable (where possible)
+- [**Noisium**](https://modrinth.com/mod/noisium) - Optimises worldgen performance for a better gameplay experience.
 - [**Not Enough Animations**](https://modrinth.com/mod/not-enough-animations) - Bringing first-person animations to the third-person
-- [**Nvidium**](https://modrinth.com/mod/nvidium) - Fast nvidia only rendering engine for sodium
 - [**Packet Fixer**](https://modrinth.com/mod/packet-fixer) - A simple mod to solve various problems with packets.
-- [**RailOptimization**](https://modrinth.com/mod/railoptimization) - A simple mod that makes powered/activator rails turn on/off up to 4x faster. Fix vital crash.
 - [**Reese's Sodium Options**](https://modrinth.com/mod/reeses-sodium-options) - Alternative Options Menu for Sodium
 - [**Resourcify**](https://modrinth.com/mod/resourcify) - In-game resource pack, data pack and shader browser and updater
 - [**Smooth Scrolling**](https://modrinth.com/mod/smooth-scroll) - Smoothly scrolls chat, hotbar, creative inventory and much more!
@@ -93,8 +93,7 @@ Join the community of players who have transformed their gameplay. Download **Re
 - [**ToolTipFix**](https://modrinth.com/mod/tooltipfix) - Fixes Tooltips from runnning off the screen.
 - [**Very Many Players (Fabric)**](https://modrinth.com/mod/vmp-fabric) - A Fabric mod designed to improve server performance at high playercounts.
 - [**YetAnotherConfigLib**](https://modrinth.com/mod/yacl) - A builder-based configuration library for Minecraft.
-- [**kennytvs-epic-force-close-loading-screen-mod-for-fabric**](https://modrinth.com/mod/forcecloseworldloadingscreen) - Instantly closes the loading terrain screen on world changing and drastically reduces the resource pack loading screen duration'
-
+- [**kennytvs-epic-force-close-loading-screen-mod-for-fabric**](https://modrinth.com/mod/forcecloseworldloadingscreen) - Instantly closes the loading terrain screen on world changing and drastically reduces the resource pack loading screen duration
 </details>
 
 # Thanks
