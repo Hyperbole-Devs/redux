@@ -44,6 +44,7 @@ Join the community of players who have transformed their gameplay. Download **Re
 <details>
 <summary>Full List Of Mods Used In This Modpack</summary>
 
+- [**3D Skin Layers**](https://modrinth.com/mod/3dskinlayers) - Render the player skin layer in 3d!
 - [**AppleSkin**](https://modrinth.com/mod/appleskin) - Food/hunger-related HUD improvements
 - [**Better Beds**](https://modrinth.com/mod/better-beds) - Changes the renderer of the bed to use json models instead of a block entity renderer! 
 - [**Better Mount HUD**](https://modrinth.com/mod/better-mount-hud) - Improves the ingame HUD while riding a mount
@@ -54,10 +55,13 @@ Join the community of players who have transformed their gameplay. Download **Re
 - [**BoxLib**](https://modrinth.com/mod/boxlib) - A client-side library mod with tons of features to do all the heavy lifting for all client-side mods.
 - [**Capes**](https://modrinth.com/mod/capes) - Lets you use capes from OptiFine, LabyMod and other cape mods
 - [**Chat Animation [Smooth Chat]**](https://modrinth.com/mod/chatanimation) - Makes chat messages appear with a smooth animation.
+- [**Chat Heads**](https://modrinth.com/mod/chat-heads) - See who you're chatting with!
+- [**Cherished Worlds**](https://modrinth.com/mod/cherished-worlds) - Favorite/pin/bookmark certain worlds, which will always be at the top of the list and cannot be deleted.
 - [**Cloth Config API**](https://modrinth.com/mod/cloth-config) - Configuration Library for Minecraft Mods
 - [**Concurrent Chunk Management Engine (Fabric)**](https://modrinth.com/mod/c2me-fabric) - A Fabric mod designed to improve the chunk performance of Minecraft.
 - [**Debug Keybind**](https://modrinth.com/mod/debug-keybind) - A basic mod that adds keybinds for the F3 menu.
 - [**Debugify**](https://modrinth.com/mod/debugify) - Fixes Minecraft bugs found on the bug tracker
+- [**Dynamic Crosshair**](https://modrinth.com/mod/dynamiccrosshair) - A mod that hides or changes the crosshair dependent on context
 - [**Early Loading Screen**](https://modrinth.com/mod/early-loading-screen) - A Fabric mod that shows an early loading screen and display information while the game is loading.
 - [**Enhanced Block Entities**](https://modrinth.com/mod/ebe) - Reduce block entity FPS lag with almost no compromises, and improve their visuals
 - [**Entity Culling**](https://modrinth.com/mod/entityculling) - Using async path-tracing to hide Block-/Entities that are not visible
@@ -70,6 +74,7 @@ Join the community of players who have transformed their gameplay. Download **Re
 - [**ImmediatelyFast**](https://modrinth.com/mod/immediatelyfast) - Speed up immediate mode rendering in Minecraft
 - [**Indium**](https://modrinth.com/mod/indium) - Sodium addon providing support for the Fabric Rendering API, based on Indigo
 - [**Iris Shaders**](https://modrinth.com/mod/iris) - A modern shader pack loader for Minecraft intended to be compatible with existing OptiFine shader packs
+- [**Krypton**](https://modrinth.com/mod/krypton) - A mod to optimize the Minecraft networking stack
 - [**Language Reload**](https://modrinth.com/mod/language-reload) - Reduces load times and adds fallbacks for languages
 - [**Lithium**](https://modrinth.com/mod/lithium) - No-compromises game logic/server optimization mod
 - [**Mod Menu**](https://modrinth.com/mod/modmenu) - Adds a mod menu to view the list of mods you have installed.
@@ -92,6 +97,7 @@ Join the community of players who have transformed their gameplay. Download **Re
 - [**Text Placeholder API**](https://modrinth.com/mod/placeholder-api) - Placeholder and Text manipulation library for your Minecraft mods.
 - [**ToolTipFix**](https://modrinth.com/mod/tooltipfix) - Fixes Tooltips from runnning off the screen.
 - [**Very Many Players (Fabric)**](https://modrinth.com/mod/vmp-fabric) - A Fabric mod designed to improve server performance at high playercounts.
+- [**World Host**](https://modrinth.com/mod/world-host) - Host your singleplayer worlds without having to run a server or setup port forwarding!
 - [**YetAnotherConfigLib**](https://modrinth.com/mod/yacl) - A builder-based configuration library for Minecraft.
 - [**kennytvs-epic-force-close-loading-screen-mod-for-fabric**](https://modrinth.com/mod/forcecloseworldloadingscreen) - Instantly closes the loading terrain screen on world changing and drastically reduces the resource pack loading screen duration
 </details>
