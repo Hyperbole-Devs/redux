@@ -21,10 +21,11 @@ Whether you’re crafting a sprawling metropolis, delving into the depths of a t
 
 ## Quick Download
 
-[![Website](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/documentation/website_vector.svg)]
-(https://github.com/Hyperbole-Devs/vectors/raw/refs/heads/v3/hyperbole-studios/assets/minecraft_download_1.21.1.svg)
+[![stable](https://raw.githubusercontent.com/Hyperbole-Devs/vectors/refs/heads/v3/hyperbole-studios/assets/redux_download_1.1.0_stable.svg)]
+(https://cdn.modrinth.com/data/SXfmOYZX/versions/jZ1KvInc/Redux%201.1.0r.mrpack)
 
-
+[![beta](https://raw.githubusercontent.com/Hyperbole-Devs/vectors/refs/heads/v3/hyperbole-studios/assets/redux_download_1.1.1_beta.svg)]
+(https://cdn.modrinth.com/data/SXfmOYZX/versions/MDOI5ZzF/Redux%201.1.1b.mrpack)
 
 ------------------------------------------------------------------------------------------
 #### Key Features:
