@@ -19,7 +19,10 @@ Whether you’re crafting a sprawling metropolis, delving into the depths of a t
 
 ------------------------------------------------------------------------------------------
 
-## Download
+## Quick Download
+
+[![Website](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/documentation/website_vector.svg)]
+(https://github.com/Hyperbole-Devs/vectors/raw/refs/heads/v3/hyperbole-studios/assets/minecraft_download_1.21.1.svg)
 
 
 
