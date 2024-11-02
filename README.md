@@ -6,40 +6,83 @@ Designed with both casual players and dedicated enthusiasts in mind, Redux bring
 
 Whether you’re crafting a sprawling metropolis, delving into the depths of a treacherous dungeon, or simply enjoying a quiet day of farming, Redux is engineered to enhance your journey. Every feature is meticulously designed to optimize performance and improve usability, empowering you to explore the limitless possibilities that Minecraft has to offer. Say goodbye to frustrating slowdowns and cumbersome interfaces; it’s time to experience the game in a whole new way.
 
+------------------------------------------------------------------------------------------
+
+[![Modrinth](https://github.com/intergrav/devins-badges/raw/2dc967fc44dc73850eee42c133a55c8ffc5e30cb/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/modpack/redux)
+[![CurseForge](https://github.com/intergrav/devins-badges/raw/2dc967fc44dc73850eee42c133a55c8ffc5e30cb/assets/cozy/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/modpacks/redux-the-ultimate-minecraft-optimization-quality)
+[![GitHub](https://github.com/intergrav/devins-badges/raw/2dc967fc44dc73850eee42c133a55c8ffc5e30cb/assets/cozy/available/github_vector.svg)](https://github.com/Hyperbole-Devs/redux/releases)
+
+[![FabricMC](https://github.com/intergrav/devins-badges/raw/2dc967fc44dc73850eee42c133a55c8ffc5e30cb/assets/compact/supported/fabric_vector.svg)](https://fabricmc.net)
+[![fabulously-optimized](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/built-with/fabulously-optimized_vector.svg)](https://modrinth.com/modpack/fabulously-optimized)
+
+[![Website](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/documentation/website_vector.svg)](https://hyperbolestudios.wixsite.com/hyperbolestudios/)
+
+------------------------------------------------------------------------------------------
+
 #### Key Features:
 
-1. **Unmatched Performance Enhancements:**
+**Unmatched Performance Enhancements:**
    - **Sodium**: Experience unparalleled rendering optimization, dramatically increasing frame rates while delivering stunning visuals. Say goodbye to stutters and hello to a beautifully rendered world, even in resource-heavy environments.
    - **Lithium**: This mod optimizes game logic without compromising any gameplay elements. Enjoy a smoother experience, whether you’re building intricate structures or battling hostile mobs.
    - **FerriteCore**: Reduce memory usage significantly, allowing your game to run more efficiently, particularly in larger worlds. This mod helps prevent lag spikes, ensuring you can focus on your adventures.
 
-2. **Seamless Chunk and Entity Management:**
+------------------------------------------------------------------------------------------
+
+**Seamless Chunk and Entity Management:**
    - **Concurrent Chunk Management Engine**: This essential mod enhances chunk loading, ensuring that new areas render quickly and smoothly, minimizing interruptions as you explore new biomes or venture into the depths of a cave.
    - **Entity Culling**: Using advanced techniques, this mod hides entities that are out of sight, freeing up vital resources and enhancing performance in crowded areas, such as villages or busy builds.
 
-3. **Intuitive HUD and Comprehensive Statistics:**
+------------------------------------------------------------------------------------------
+
+**Intuitive HUD and Comprehensive Statistics:**
    - **Better Ping Display**: Stay informed about your connection quality with a configurable ping readout, helping you adjust your gameplay strategy for optimal performance.
    - **FPS Display**: Monitor your frame rate in real-time, giving you immediate feedback about your game’s performance and allowing you to make necessary adjustments on the fly.
    - **Better Statistics Screen**: Revamp your stats interface with more informative layouts and metrics, making it easier to track your achievements, milestones, and playstyle over time.
 
-4. **Streamlined Inventory Management:**
+------------------------------------------------------------------------------------------
+
+**Streamlined Inventory Management:**
    - **Mouse Tweaks**: Revolutionize your inventory management with enhanced mouse controls that facilitate quick item transfers, sorting, and organization, ensuring your inventory is always tidy and efficient.
    - **Smooth Scrolling**: Enjoy a fluid experience while navigating through chat, your hotbar, and creative inventory. This mod eliminates any jarring movements, making your interactions feel seamless and natural.
 
-5. **Efficient Exit and Configuration Options:**
+------------------------------------------------------------------------------------------
+
+**Efficient Exit and Configuration Options:**
    - **FastQuit**: Quickly exit to the title screen while your world saves in the background, preserving your progress and allowing for faster gameplay transitions without frustrating wait times.
    - **Cloth Config API**: Tailor your mod settings effortlessly with a user-friendly interface, allowing you to customize your experience to suit your playstyle and preferences.
 
-6. **Bug Fixes and Stability Improvements:**
+------------------------------------------------------------------------------------------
+
+**Bug Fixes and Stability Improvements:**
    - **Debugify**: Tackle numerous bugs that may hinder your experience, enhancing stability and ensuring your gameplay is as smooth as possible. This mod helps create a more polished and reliable environment for all players.
 
-7. **Enhanced Visual Experience:**
+------------------------------------------------------------------------------------------
+
+**Enhanced Visual Experience:**
    - **Model Gap Fix**: Eliminate unsightly gaps in block and item models, ensuring your builds look polished and professional. Your creations will shine without the distraction of rendering errors.
    - **Iris Shaders Compatibility**: Elevate your visuals with compatibility for modern shaders, adding breathtaking effects that bring your Minecraft world to life. Experience dynamic lighting, vibrant colors, and stunning atmospheric effects that enhance immersion.
+
+------------------------------------------------------------------------------------------
 
 With **Redux**, you’re not just playing Minecraft; you’re engaging with a carefully curated collection of mods that prioritize both performance and usability. This modpack is crafted to ensure that every aspect of your game is refined, providing a richer, more enjoyable experience.
 
 Join the community of players who have transformed their gameplay. Download **Redux** today and redefine your Minecraft adventure, making it smoother, faster, and infinitely more rewarding!
+
+------------------------------------------------------------------------------------------
+
+### Performance Variation Chart
+
+| Configuration       | Frames Per Second     | Improvement          | Downloads       |
+|---------------------|:---------------------:|---------------------:|-----------------:
+| [Vanilla](https://minecraft.net/)             | 163 Frames Per Second | 0% / 0.0x approx.    | N/A Downloads |
+| [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized)| 1023 Frames Per Second| 620% / 6.2x approx.  | **2.44M+ Downloads**|
+| [Performium](https://modrinth.com/modpack/performium-was-taken)          | 1127 Frames Per Second| 690% / 6.9x approx.  | 39.2K+ Downloads |
+| **Redux**           | **1684 Frames Per Second**| **1040% / 10.4x approx** | 0.06K+ Downloads|            
+
+### Important Note: 
+Your performance improvment may vary depending on your your computer specs. Do **not** gurantee the exact FPS of our tests. You should try this modpack **yourself** and evaluate which modpack is best for you.
+
+------------------------------------------------------------------------------------------
 
 <details>
 <summary>Full List Of Mods Used In This Modpack</summary>
@@ -100,7 +143,28 @@ Join the community of players who have transformed their gameplay. Download **Re
 - [**World Host**](https://modrinth.com/mod/world-host) - Host your singleplayer worlds without having to run a server or setup port forwarding!
 - [**YetAnotherConfigLib**](https://modrinth.com/mod/yacl) - A builder-based configuration library for Minecraft.
 - [**kennytvs-epic-force-close-loading-screen-mod-for-fabric**](https://modrinth.com/mod/forcecloseworldloadingscreen) - Instantly closes the loading terrain screen on world changing and drastically reduces the resource pack loading screen duration
+
 </details>
 
+------------------------------------------------------------------------------------------
+
+# Updates
+
+1.21 & Under - Won't Support
+
+**1.21.1 - Stable Release**
+
+1.21.2 - Won't Support
+
+1.21.3 - In Closed Alpha
+
+1.21.4 & Future - In Pre-Alpha Development
+
+For more updates check out Redux's GitHub repository:
+
+[![repository](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/git_vector.svg)](https://github.com/Hyperbole-Devs/redux)
+
+------------------------------------------------------------------------------------------
+
 # Thanks
-A big shoutout to the mod developers that this modpack consists of, as they work so hard to keep Modrinth running :).
+A big shoutout to the mod developers, as they work so hard to keep Modrinth running :).
