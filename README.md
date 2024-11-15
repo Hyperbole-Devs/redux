@@ -9,23 +9,16 @@ Whether you’re crafting a sprawling metropolis, delving into the depths of a t
 ------------------------------------------------------------------------------------------
 
 [![Modrinth](https://github.com/intergrav/devins-badges/raw/2dc967fc44dc73850eee42c133a55c8ffc5e30cb/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/modpack/redux)
-[![CurseForge](https://github.com/intergrav/devins-badges/raw/2dc967fc44dc73850eee42c133a55c8ffc5e30cb/assets/cozy/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/modpacks/redux-the-ultimate-minecraft-optimization-quality)
 [![GitHub](https://github.com/intergrav/devins-badges/raw/2dc967fc44dc73850eee42c133a55c8ffc5e30cb/assets/cozy/available/github_vector.svg)](https://github.com/Hyperbole-Devs/redux/releases)
 
 [![FabricMC](https://github.com/intergrav/devins-badges/raw/2dc967fc44dc73850eee42c133a55c8ffc5e30cb/assets/compact/supported/fabric_vector.svg)](https://fabricmc.net)
 [![fabulously-optimized](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/built-with/fabulously-optimized_vector.svg)](https://modrinth.com/modpack/fabulously-optimized)
 
-[![Website](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/documentation/website_vector.svg)](https://hyperbolestudios.wixsite.com/hyperbolestudios/)
+[![Hyperbole Studios](https://github.com/Hyperbole-Devs/vectors/raw/refs/heads/hyperbole-studios/hyperbole-studios/assets/discover_more_projects_at_hs.svg)](https://modrinth.com/organization/hyperbole-studios)
 
 ------------------------------------------------------------------------------------------
 
-## Quick Download
-
-[![stable](https://raw.githubusercontent.com/Hyperbole-Devs/vectors/refs/heads/v3/hyperbole-studios/assets/redux_download_1.1.0_stable.svg)](https://cdn.modrinth.com/data/SXfmOYZX/versions/jZ1KvInc/Redux%201.1.0r.mrpack)
-[![beta](https://raw.githubusercontent.com/Hyperbole-Devs/vectors/refs/heads/v3/hyperbole-studios/assets/redux_download_1.1.1_beta.svg)](https://cdn.modrinth.com/data/SXfmOYZX/versions/MDOI5ZzF/Redux%201.1.1b.mrpack)
-
-------------------------------------------------------------------------------------------
-#### Key Features:
+## Key Features:
 
 **Unmatched Performance Enhancements:**
    - **Sodium**: Experience unparalleled rendering optimization, dramatically increasing frame rates while delivering stunning visuals. Say goodbye to stutters and hello to a beautifully rendered world, even in resource-heavy environments.
@@ -83,7 +76,7 @@ Join the community of players who have transformed their gameplay. Download **Re
 | [Vanilla](https://minecraft.net/)             | 163 Frames Per Second | 0% / 0.0x approx.    | N/A Downloads |
 | [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized)| 1023 Frames Per Second| 620% / 6.2x approx.  | **2.44M+ Downloads**|
 | [Performium](https://modrinth.com/modpack/performium-was-taken)          | 1127 Frames Per Second| 690% / 6.9x approx.  | 39.2K+ Downloads |
-| **Redux**           | **1684 Frames Per Second**| **1040% / 10.4x approx** | 0.06K+ Downloads|            
+| **Redux**           | **1684 Frames Per Second**| **1040% / 10.4x approx** | 0.11K+ Downloads|            
 
 ### Important Note: 
 Your performance improvment may vary depending on your your computer specs. Do **not** gurantee the exact FPS of our tests. You should try this modpack **yourself** and evaluate which modpack is best for you.
@@ -156,7 +149,9 @@ Your performance improvment may vary depending on your your computer specs. Do *
 
 # Updates
 
-1.21 & Under - Won't Support
+1.20.6 & Under - Won't Support
+
+1.21.0 - In Closed Beta / Exordium Experiment In Open Alpha
 
 **1.21.1 - Stable Release**
 
